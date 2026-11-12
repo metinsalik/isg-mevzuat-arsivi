@@ -29,6 +29,15 @@
       "oncelik_skoru": 0.85,
       "durum": "aktif",
       "resmi_gazete": "27.09.2008 - 27010"
+    },
+    {
+      "mevzuat_kodu": "ANALIK_KISMI_CALISMA_YON",
+      "baslik": "Analık İzni veya Ücretsiz İzin Sonrası Yapılacak Kısmi Süreli Çalışmalar Hakkında Yönetmelik",
+      "kategori": "yonetmelik",
+      "klasor_yolu": "02-temel-yonetmelikler/analik-kismi-sureli-calisma",
+      "oncelik_skoru": 0.85,
+      "durum": "aktif",
+      "resmi_gazete": "08.11.2016 - 29882"
     }
   ]
 }
