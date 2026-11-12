@@ -47,6 +47,15 @@
       "oncelik_skoru": 0.9,
       "durum": "aktif",
       "resmi_gazete": "06.04.2019 - 30737"
+    },
+    {
+      "mevzuat_kodu": "ASANSOR_PERIYODIK_YON",
+      "baslik": "Asansör Periyodik Kontrol Yönetmeliği",
+      "kategori": "yonetmelik",
+      "klasor_yolu": "02-temel-yonetmelikler/asansor-periyodik-kontrol",
+      "oncelik_skoru": 0.95,
+      "durum": "aktif",
+      "resmi_gazete": "04.05.2018 - 30411"
     }
   ]
 }
