@@ -1,4 +1,4 @@
-cd ~/isg-mevzuat-arsivi && cat << 'EOF' > README.md
+
 # Sağlık Tesisleri İSG & Yangın Mevzuatı Bilgi Bankası ve Canlı Saha Asistanı
 
 Sağlık tesisleri ve hastane işletmeleri için özel olarak yapılandırılmış, versiyon kontrollü **Türk İş Sağlığı ve Güvenliği (İSG) ve Yangın Güvenliği Mevzuat Arşivi** ile bu arşivi canlı web uygulamalarına bağlayan **Hibrit RAG & Saha Tecrübesi Asistanı** mimarisidir.
