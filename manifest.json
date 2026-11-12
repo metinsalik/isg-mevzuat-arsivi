@@ -20,6 +20,15 @@
       "oncelik_skoru": 0.9,
       "durum": "aktif",
       "resmi_gazete": "10.06.2003 - 25134"
+    },
+    {
+      "mevzuat_kodu": "ALT_ISVERENLIK_YON",
+      "baslik": "Alt İşverenlik Yönetmeliği",
+      "kategori": "yonetmelik",
+      "klasor_yolu": "02-temel-yonetmelikler/alt-isverenlik",
+      "oncelik_skoru": 0.85,
+      "durum": "aktif",
+      "resmi_gazete": "27.09.2008 - 27010"
     }
   ]
 }
