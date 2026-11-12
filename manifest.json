@@ -83,6 +83,15 @@
       "oncelik_skoru": 1.0,
       "durum": "aktif",
       "resmi_gazete": "19.12.2007 - 26735"
+    },
+    {
+      "mevzuat_kodu": "ISG_KURULLARI_YON",
+      "baslik": "İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik",
+      "kategori": "yonetmelik",
+      "klasor_yolu": "02-temel-yonetmelikler/isg-kurullari",
+      "oncelik_skoru": 0.95,
+      "durum": "aktif",
+      "resmi_gazete": "18.01.2013 - 28532"
     }
   ]
 }
