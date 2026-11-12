@@ -65,6 +65,15 @@
       "oncelik_skoru": 0.8,
       "durum": "aktif",
       "resmi_gazete": "03.11.2016 - 29877"
+    },
+    {
+      "mevzuat_kodu": "BASINCLI_EKIPMANLAR_YON",
+      "baslik": "Basınçlı Ekipmanlar Yönetmeliği (2014/68/AB)",
+      "kategori": "yonetmelik",
+      "klasor_yolu": "02-temel-yonetmelikler/basincli-ekipmanlar",
+      "oncelik_skoru": 0.85,
+      "durum": "aktif",
+      "resmi_gazete": "03.03.2018 - 30349"
     }
   ]
 }
