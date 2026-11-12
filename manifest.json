@@ -38,6 +38,15 @@
       "oncelik_skoru": 0.85,
       "durum": "aktif",
       "resmi_gazete": "08.11.2016 - 29882"
+    },
+    {
+      "mevzuat_kodu": "ASANSOR_BAKIM_YON",
+      "baslik": "Asansör İşletme ve Bakım Yönetmeliği",
+      "kategori": "yonetmelik",
+      "klasor_yolu": "02-temel-yonetmelikler/asansor-isletme-ve-bakim",
+      "oncelik_skoru": 0.9,
+      "durum": "aktif",
+      "resmi_gazete": "06.04.2019 - 30737"
     }
   ]
 }
