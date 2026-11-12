@@ -56,6 +56,15 @@
       "oncelik_skoru": 0.95,
       "durum": "aktif",
       "resmi_gazete": "04.05.2018 - 30411"
+    },
+    {
+      "mevzuat_kodu": "BASIT_BASINCLI_KAPLAR_YON",
+      "baslik": "Basit Basınçlı Kaplar Yönetmeliği (2014/29/AB)",
+      "kategori": "yonetmelik",
+      "klasor_yolu": "02-temel-yonetmelikler/basit-basincli-kaplar",
+      "oncelik_skoru": 0.8,
+      "durum": "aktif",
+      "resmi_gazete": "03.11.2016 - 29877"
     }
   ]
 }
