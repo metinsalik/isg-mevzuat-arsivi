@@ -2,5 +2,15 @@
   "arsiv_versiyonu": "1.0.0",
   "son_guncelleme": "2026-11-12",
   "sektor": "Sağlık Tesisleri",
-  "mevzuatlar": []
+  "mevzuatlar": [
+    {
+      "mevzuat_kodu": "6331_ISG_KANUNU",
+      "baslik": "6331 Sayılı İş Sağlığı ve Güvenliği Kanunu",
+      "kategori": "kanun",
+      "klasor_yolu": "01-kanunlar/6331-isg-kanunu",
+      "oncelik_skoru": 1.0,
+      "durum": "aktif",
+      "resmi_gazete": "30.06.2012 - 28339"
+    }
+  ]
 }
