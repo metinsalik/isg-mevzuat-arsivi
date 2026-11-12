@@ -74,6 +74,15 @@
       "oncelik_skoru": 0.85,
       "durum": "aktif",
       "resmi_gazete": "03.03.2018 - 30349"
+    },
+    {
+      "mevzuat_kodu": "YANGIN_YON",
+      "baslik": "Binaların Yangından Korunması Hakkında Yönetmelik",
+      "kategori": "yonetmelik",
+      "klasor_yolu": "03-saglik-ozel-yonetmelikler/binalarin-yangindan-korunmasi",
+      "oncelik_skoru": 1.0,
+      "durum": "aktif",
+      "resmi_gazete": "19.12.2007 - 26735"
     }
   ]
 }
