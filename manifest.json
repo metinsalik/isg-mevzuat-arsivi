@@ -11,6 +11,15 @@
       "oncelik_skoru": 1.0,
       "durum": "aktif",
       "resmi_gazete": "30.06.2012 - 28339"
+    },
+    {
+      "mevzuat_kodu": "4857_IS_KANUNU",
+      "baslik": "4857 Sayılı İş Kanunu (İSG ve Çalışma Düzeni İlgili Hükümler)",
+      "kategori": "kanun",
+      "klasor_yolu": "01-kanunlar/4857-is-kanunu-ilgili",
+      "oncelik_skoru": 0.9,
+      "durum": "aktif",
+      "resmi_gazete": "10.06.2003 - 25134"
     }
   ]
 }
